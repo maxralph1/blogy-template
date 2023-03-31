@@ -4,7 +4,7 @@
     <div class="row g-5">
         <div class="col-md-8">
             <h3 class="pb-4 mb-4 fst-italic border-bottom">
-                Recent Posts
+                Posts on topic: &nbsp; <a class="btn btn-secondary rounded-pill py-2 px-3 fw-bold fs-4">Software</a>
             </h3>
 
             <article class="blog-post row mb-2">

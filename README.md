@@ -6,4 +6,4 @@ The main project is crafted in Python's Django framework
 
 Here is the link to the main project
 
-https://github.com/maxralph1/blogy.git
+https://github.com/maxralph1/blogy
